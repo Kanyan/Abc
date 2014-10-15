@@ -11,6 +11,7 @@ namespace testProgram
         static void Main(string[] args)
         {
             Console.Write("this is test program");
+            Console.Write("\nIT runs ");
             Console.ReadKey();
         }
     }
